@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ImageProxyTestDrive",
+            "request": "launch",
+            "mainClass": "ImageProxyTestDrive",
+            "projectName": "CDCoverViewerVritualProxyAndStatePattern_5b31b1ea"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImageProxyTestDrive",
+            "request": "launch",
+            "mainClass": "ImageProxyTestDrive",
+            "projectName": "CDCoverViewerVritualProxy_d051e5ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "CDCoverViewerVritualProxy_d051e5ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImageProxyTestDrive",
+            "request": "launch",
+            "mainClass": "ImageProxyTestDrive",
+            "projectName": "CD Cover Viewer_81aad629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/zicu/Desktop/Design Patterns - First Head/Chapter 11 - The Proxy Pattern/CDCoverViewerVritualProxy/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "App",
+            "projectName": "CD Cover Viewer_81aad629"
+        }
+    ]
+}

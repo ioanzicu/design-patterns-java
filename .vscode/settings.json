@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "Chapter 4 - Factory Pattern/PizzaTestDrive/src",
+        "Chapter 4 - Factory Pattern/PizzaAndIngredientFactoriesTestDrive/src",
+        "Chapter 11 - The Proxy Pattern/MatchmakingProtectionProxy/src"
+    ]
+}
